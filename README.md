@@ -1,11 +1,10 @@
 
 <div align="center">
-<h2>stats</h2>
+<h2>stack</h2>
 <div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terranking1&show_icons=true&theme=gruvbox)   
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terranking1&layout=compact&theme=gruvbox)
+  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 </div>
   
