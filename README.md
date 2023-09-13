@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2>stack</h2>
+<h2>🔨 stack</h2>
 <div>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terranking1&layout=compact&theme=gruvbox)
