@@ -13,7 +13,8 @@
   
 </div>
 <div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=onlyplsson)](https://solved.ac/onlyplsson/)
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=onlyplsson)](https://solved.ac/onlyplsson)
 </div>
 
 
