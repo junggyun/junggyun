@@ -1,4 +1,9 @@
 <div align="center">
+<h1>👋 Hi, there</h1>
+<br>
+<br>
+<br>
+
   
 <h2>🔨 skills</h2>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
