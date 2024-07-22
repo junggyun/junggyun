@@ -2,7 +2,6 @@
 <h1>👋 Hi, there</h1>
 <br>
 <br>
-<br>
 
   
 <h2>🔨 skills</h2>
