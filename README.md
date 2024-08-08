@@ -23,12 +23,15 @@
 <br>
 <h2>📝 stats</h2>
 
-<a href="https://github.com/junggyun/github-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junggyun&layout=compact&theme=nord" style="height:200px">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=junggyun&include_all_commits=true&show_icons=true&theme=nord" style="height:200px">
-</a>
+
+  <a href="https://github.com/junggyun/github-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junggyun&layout=compact&theme=nord" style="width:48%; height:200px">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=junggyun&include_all_commits=true&show_icons=true&theme=nord" style="width:48%; height:200px">
+  </a>
+
+
 
 
 </div>
