@@ -14,11 +14,11 @@
 <h2>📝 stats</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=terranking1&include_all_commits=true&show_icons=true&theme=nord" width=48%;>
+  <img src="https://github-readme-stats.vercel.app/api?username=junggyun&include_all_commits=true&show_icons=true&theme=nord" width=48%;>
 </a>
 <br>
-<a href="https://github.com/terranking1/github-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terranking1&layout=compact&theme=nord" width=36.5%;>
+<a href="https://github.com/junggyun/github-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junggyun&layout=compact&theme=nord" width=36.5%;>
 </a>
 
 <br>
