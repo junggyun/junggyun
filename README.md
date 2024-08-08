@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://capsule-render.vercel.app/api?section=header&type=waving&color=7F7FD5&height=150&fontAlignY=36&fontSize=30&fontColor=ffffff&animation=twinkling&text=🌱%20Hi,%20there!%20I'm%20junggyun%20🌱)
+![](https://capsule-render.vercel.app/api?section=header&type=waving&color=adb4da&height=250&fontAlignY=40&fontSize=40&fontColor=ffffff&animation=twinkling&text=🌱%20Hi,%20there!%20I'm%20junggyun%20🌱)
 
 <h2>🔨 skills</h2>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
@@ -24,10 +24,10 @@
 <h2>📝 stats</h2>
 
 <a href="https://github.com/junggyun/github-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junggyun&layout=compact&theme=nord" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junggyun&layout=compact&theme=nord" style="height:200px">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=junggyun&include_all_commits=true&show_icons=true&theme=nord" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=junggyun&include_all_commits=true&show_icons=true&theme=nord" style="height:200px">
 </a>
 
 
