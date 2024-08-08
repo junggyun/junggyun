@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://capsule-render.vercel.app/api?section=header&type=waving&color=333a73&height=250&fontsize=30&fontColor=ffffff&animation=twinkling&text=안녕하세요%20박정균입니다%20😄)
+![](https://capsule-render.vercel.app/api?section=header&type=waving&color=7F7FD5&height=150&fontAlignY=36&fontSize=30&fontColor=ffffff&animation=twinkling&text=🌱%20Hi,%20there!%20I'm%20junggyun%20🌱)
 
 <h2>🔨 skills</h2>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
